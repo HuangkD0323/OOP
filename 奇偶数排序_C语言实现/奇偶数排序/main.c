@@ -22,12 +22,18 @@
 #include <stdio.h>
 
 /*交换两个整数的值*/
-void swap(int* a, int* b)
+
+#define SWAP(x, y) do { \
+    int temp = (x); \
+    (x) = (y); \
+    (y) = temp; \
+} while (0)
+/*void swap(int* a, int* b)
 {
 	int temp = *a;
 	*a = *b;
 	*b = temp;
-}
+}*/
 /*将奇数和偶数分离开来的函数*/
 void separateOddEven(int arr[], int size)
 {
@@ -48,7 +54,8 @@ void separateOddEven(int arr[], int size)
 		/*交换左边界索引处的偶数和右边界索引处的奇数*/
 		if (left < right)
 		{
-			swap(&arr[left], &arr[right]);
+			/*swap(&arr[left], &arr[right]);*/
+			SWAP(arr[left], arr[right]);
 		}
 	}	
 }
