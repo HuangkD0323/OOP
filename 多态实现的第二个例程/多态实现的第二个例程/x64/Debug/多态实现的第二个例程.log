@@ -1,0 +1,3 @@
+﻿  几何图形的多态.cpp
+D:\Users\huang\AppData\VS_Code\OOP\多态实现的第二个例程\多态实现的第二个例程\几何图形的多态.cpp(42,24): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  多态实现的第二个例程.vcxproj -> D:\Users\huang\AppData\VS_Code\OOP\多态实现的第二个例程\x64\Debug\多态实现的第二个例程.exe
