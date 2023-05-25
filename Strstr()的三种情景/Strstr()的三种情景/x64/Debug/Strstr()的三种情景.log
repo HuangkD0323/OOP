@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Users\huang\AppData\VS_Code\OOP\Strstr()的三种情景\Strstr()的三种情景\main.cpp(57,13): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\Users\huang\AppData\VS_Code\OOP\Strstr()的三种情景\Strstr()的三种情景\main.cpp(57,13): message : 此参数用作缓冲区大小
+D:\Users\huang\AppData\VS_Code\OOP\Strstr()的三种情景\Strstr()的三种情景\main.cpp(57,13): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 4 拥有了类型“size_t”
+D:\Users\huang\AppData\VS_Code\OOP\Strstr()的三种情景\Strstr()的三种情景\main.cpp(57,13): message : 此参数用作缓冲区大小
+  Strstr()的三种情景.vcxproj -> D:\Users\huang\AppData\VS_Code\OOP\Strstr()的三种情景\x64\Debug\Strstr()的三种情景.exe
