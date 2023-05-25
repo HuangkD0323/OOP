@@ -1,0 +1,3 @@
+﻿  mian.cpp
+D:\Users\huang\AppData\VS_Code\OOP\用C++实现荷兰国旗问题\用C++实现荷兰国旗问题\mian.cpp(16,29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  用C++实现荷兰国旗问题.vcxproj -> D:\Users\huang\AppData\VS_Code\OOP\用C++实现荷兰国旗问题\x64\Debug\用C++实现荷兰国旗问题.exe
