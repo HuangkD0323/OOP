@@ -1,0 +1,4 @@
+﻿  mian.c
+D:\Users\huang\AppData\VS_Code\OOP\memset()函数\memset()函数\mian.c(11,2): warning C4013: “strcpy”未定义；假设外部返回 int
+D:\Users\huang\AppData\VS_Code\OOP\memset()函数\memset()函数\mian.c(14,2): warning C4013: “memset”未定义；假设外部返回 int
+  memset()函数.vcxproj -> D:\Users\huang\AppData\VS_Code\OOP\memset()函数\x64\Debug\memset()函数.exe
